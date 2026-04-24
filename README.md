@@ -1,4 +1,7 @@
-👋 Hi, I’m @Vanderku
+## 👋 Hi, I’m @Vanderku
+
 <hr>
-![Discord Presence](https://lanyard.cnrad.dev/api/330445120761495567?showDisplayName=true&idleMessage=Aktualnie%20nic%20nie%20robie)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/330445120761495567?showDisplayName=true&idleMessage=Aktualnie%20nic%20nie%20robie)](https://discord.com/users/330445120761495567)
+
 <hr>
